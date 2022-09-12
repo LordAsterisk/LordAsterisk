@@ -1,4 +1,4 @@
-### Hey there, I'm Sawyer! 👋
+### Hey there, I'm Sawyer! :octocat:
 ---
 I'm an enthusiastic coder and love opportunities to get creative with my work! I am most experienced with Python, but I've worked in C++, Prolog, p5.js, and many other languages.
 
